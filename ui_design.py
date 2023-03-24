@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 
-# Form implementation generated from reading ui file 'd:\Destop Materials\Molymo Medžiaga\tutorials-master\pythonSerial\from video\serialPy\design.ui'
 #
 # Created by: PyQt5 UI code generator 5.15.7
 #
